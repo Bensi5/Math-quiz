@@ -3,3 +3,11 @@
         background-position: center;
         background-size: cover;
 }
+#output{
+    background:aqua; 
+    border-radius: 10px;
+    border-top: 1o solid #ff26ed;
+    padding: 10px;
+    float: none;
+    text-align: left;   
+}

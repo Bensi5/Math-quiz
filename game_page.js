@@ -1,5 +1,8 @@
-.body_background{
-     background-image: url("background.jpg");
-        background-position: center;
-        background-size: cover;
+function addUser(){
+    player1_name=document.getElementById("player1").value;
+    player2_name=document.getElementById("player2").value;
+    console.log("player 1 Name =" + player1_name);
+    localStorage.setItem("player1_name",player1_name);
+    localStorage.setItem("player2_name",player2_name);
+    window.location="quiz_page.html";
 }
