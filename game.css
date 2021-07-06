@@ -4,10 +4,16 @@
         background-size: cover;
 }
 #output{
-    background:aqua; 
+    background:rgb(252, 0, 210); 
     border-radius: 10px;
     border-top: 1o solid #ff26ed;
     padding: 10px;
     float: none;
     text-align: left;   
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
 }

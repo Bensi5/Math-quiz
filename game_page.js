@@ -6,3 +6,4 @@ function addUser(){
     localStorage.setItem("player2_name",player2_name);
     window.location="quiz_page.html";
 }
+ 
