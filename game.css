@@ -17,3 +17,11 @@
 	display: inline-block;
 	margin-left: 20px;
 }
+#score_display{
+    color: white;
+}
+.ss{
+    font-size: 25px;
+    font-family: Arialblack;
+    font-weight: bold;
+}
